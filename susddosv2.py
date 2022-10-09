@@ -7,15 +7,15 @@ import time
 import sys
 uname=input("Enter Sever Username : ")
 os.system("cls" if os.name == "nt" else "clear")
-print(f"Welcome To Sever | User:{susv2}")
+print(f"Welcome To Sever | User:{Username}")
 print("please wait.")
 time.sleep(0.05)
 os.system("cls" if os.name == "nt" else "clear")
-print(f"Welcome To Sever | User: {susv2}")
+print(f"Welcome To Sever | User: {Username}")
 print("please wait..")
 time.sleep(0.05)
 os.system("cls" if os.name == "nt" else "clear")
-print(f"Welcome To Sever | User: {susv2}")
+print(f"Welcome To Sever | User: {Username}")
 print("please wait...")
 online= random.randint(1, 153)
 
